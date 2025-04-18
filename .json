@@ -1,0 +1,47 @@
+[
+  {
+    "topic": "Acids, Bases and Salts",
+    "questions": [
+      { "id": 1, "question": "Define an acid.", "answer": "An acid increases H⁺ concentration in solution." },
+      { "id": 2, "question": "What is a base?", "answer": "A base decreases H⁺ concentration or increases OH⁻ in solution." },
+      { "id": 3, "question": "What is a salt?", "answer": "A salt is formed when an acid reacts with a base." },
+      { "id": 4, "question": "Example of a strong acid.", "answer": "Hydrochloric acid (HCl)." },
+      { "id": 5, "question": "Example of a weak acid.", "answer": "Ethanoic acid (CH₃COOH)." },
+      { "id": 6, "question": "What is neutralization?", "answer": "Reaction between acid and base to form salt and water." },
+      { "id": 7, "question": "Name a salt formed from HCl and NaOH.", "answer": "Sodium chloride (NaCl)." },
+      { "id": 8, "question": "Define pH.", "answer": "A measure of hydrogen ion concentration in a solution." },
+      { "id": 9, "question": "What pH range is acidic?", "answer": "0 to 6.9." },
+      { "id": 10, "question": "What pH is neutral?", "answer": "7." }
+    ]
+  },
+  {
+    "topic": "Chemical Bonding",
+    "questions": [
+      { "id": 1, "question": "What is a chemical bond?", "answer": "A force that holds atoms together in a molecule or compound." },
+      { "id": 2, "question": "Types of chemical bonds.", "answer": "Ionic, covalent, and metallic bonds." },
+      { "id": 3, "question": "Define ionic bond.", "answer": "Bond formed by transfer of electrons." },
+      { "id": 4, "question": "Define covalent bond.", "answer": "Bond formed by sharing of electrons." },
+      { "id": 5, "question": "Example of an ionic compound.", "answer": "Sodium chloride (NaCl)." },
+      { "id": 6, "question": "Example of a covalent compound.", "answer": "Water (H₂O)." },
+      { "id": 7, "question": "What is a metallic bond?", "answer": "Bond formed by attraction between metal ions and delocalized electrons." },
+      { "id": 8, "question": "Why do ionic compounds conduct electricity in solution?", "answer": "Due to movement of free ions." },
+      { "id": 9, "question": "Covalent compounds are usually in what state?", "answer": "Gaseous or liquid." },
+      { "id": 10, "question": "Which bond is strongest?", "answer": "Covalent bond." }
+    ]
+  },
+  {
+    "topic": "Atomic Structure",
+    "questions": [
+      { "id": 1, "question": "What is an atom?", "answer": "The smallest particle of an element that can take part in a chemical reaction." },
+      { "id": 2, "question": "Name the three subatomic particles.", "answer": "Protons, neutrons, and electrons." },
+      { "id": 3, "question": "Charge of a proton.", "answer": "+1." },
+      { "id": 4, "question": "Charge of a neutron.", "answer": "0 (neutral)." },
+      { "id": 5, "question": "Charge of an electron.", "answer": "-1." },
+      { "id": 6, "question": "Location of protons and neutrons.", "answer": "In the nucleus." },
+      { "id": 7, "question": "Where are electrons found?", "answer": "In energy levels (shells) around the nucleus." },
+      { "id": 8, "question": "Who proposed the planetary model?", "answer": "Niels Bohr." },
+      { "id": 9, "question": "Atomic number represents what?", "answer": "The number of protons in an atom." },
+      { "id": 10, "question": "Mass number is what?", "answer": "Sum of protons and neutrons." }
+    ]
+  }
+]
